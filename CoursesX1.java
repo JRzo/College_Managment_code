@@ -38,7 +38,7 @@ public abstract class CoursesX1 {
 				"Calc 1&2,\n Introduction to Problem Solving,\n Programming & Data Structures,\n Programming Methodology,\n "
 						+ "Computer Systems Principles,\n Reasoning Under Uncertainty,\n Social Issues in Computing,\n Software Engineering");
 		courses.put("WNE",
-				"CS 101 & 2/IT 101 & 2,\n Data Structures,\n Software Design & Development,\n Programming Paradigms,\n Design of Database Management Systems"
+				"CS 101 & 2/ISCT 101 & 2,\n Data Structures,\n Software Design & Development,\n Programming Paradigms,\n Design of Database Management Systems"
 						+ "Design and Analysis of Algorithms,\n Parallel Computing,\n Software Engineering,\n Computer Science Capstone,\n Discrete Mathematics (2),\n Calc 1 ");
 
 		courses.put("NYU", "CSCI 1&2,\n CSCI 201&2,\n Calc 1,\n Descrete Math,\n Basic Algorithms,\n CSCi 04XX(5)\n");
